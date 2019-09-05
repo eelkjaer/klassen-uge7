@@ -3,19 +3,21 @@ Fredag d 6/9
 
 Dagen bliver en opsamling på torsdag samt gennemgang af de emner i kap 3 som ikke blev berørt.
 
-1) Scanner-klassen
-- nextInt, nextDouble, nextLine og next
+0) Protokol
 
-2) Fra println til printf
+1) Fra println til printf
+- Format på klassen
+- Format i grupper 
 
-3) Literals - String & Char
+2) Scanner-klassen
+- nextInt, nextDouble, nextLine 
 
-4) Typecasting
+3) Modulo - en ny operator
+- Gem-tal-øvelse 
 
-5) Modulo
+4) Literals - String & Char
+- basic elements (keywords (datatypes),operators,seperatorer)
 
-6) Et samlet program
+5) Typecasting - en speciel operator
 
-
-
-
+7) Netbeans - Hello World
