@@ -6,17 +6,17 @@ Dagen bliver en opsamling på torsdag samt gennemgang af de emner i kap 3 som ik
 0) Protokol
 
 1) Fra println til printf
-- Format på klassen
-- Format i grupper 
+- Format på klassen og i grupper 
 
 2) Scanner-klassen
-- nextInt, nextDouble, nextLine 
+- nextInt, nextDouble, nextLine på klassen og i grupper
 
 3) Modulo - en ny operator
-- Gem-tal-øvelse 
+- Gem-tal-øvelse på klassen og i grupper
 
 4) Literals - String & Char
-- basic elements (keywords (datatypes),operators,seperatorer)
+- basic elements (keywords (datatypes),operators)
+- på klassen og gruppe-challenge 
 
 5) Typecasting - en speciel operator
 
