@@ -4,7 +4,7 @@ Fredag d 6/9
 Dagen bliver en opsamling på torsdag samt gennemgang af de emner i kap 3 som ikke blev berørt.
 
 1) Scanner-klassen
-- nextInt, nextDouble, nextLine
+- nextInt, nextDouble, nextLine og next
 
 2) Fra println til printf
 
