@@ -1,5 +1,5 @@
-# uge7
-## torsdag d 13/2
+# Uge7
+## Torsdag d 13/2
 
 
 ### 0) Opsamling øvelser
@@ -21,4 +21,4 @@
 
 ### 6) En større opgave
 
-## fredag d 14/2
+## Fredag d 14/2
