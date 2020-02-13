@@ -1,8 +1,6 @@
 # Uge7
 ## Torsdag d 13/2
-Pause 13:15
-Pause 14:15
-Pause 15:00
+Pause 13:15, 14:15 og 15:00
 
 ### 1) Opsamling øvelser
 - Et nyt værktøj: jshell
