@@ -17,17 +17,20 @@ Pause 13:15, 14:15 og 15:00
 
 ### 1) Opsamling fra igår
 - Ciscos linux-kursus
+- Værktøjskassen 
 - Java-klasser: Scanner og Random
 - Java-documentation: API
 - Modulo operatoren
 - Opsamlingsopgave: BMI med brugerinput
 
 ### 2) Fra println til printf
-- Format på klassen og i grupper 
+- Format på klassen og gruppe-challenge
 
 ### 3) Typecast og order of precedence
 - et nyt værktøj: Git
 - på klassen og gruppe-challenge 
 
 ### 4) En større opgave
+- ModuloMasking
 - ModuloMaskingThree
+- Long, ASCII og printf

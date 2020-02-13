@@ -1,0 +1,29 @@
+long flbase=(long)1E17;
+long k = 72*flbase
+long slbase=(long)1E14;
+long k = k+69*slbase
+long tlbase=(long)1E11;
+long k = k+82*tlbase
+long hlbase=(long)1E8;
+long k = k+175*hlbase
+long wlbase=(long)1E5;
+long k = k+w*wlbase
+int ylbase=100;
+long k = k+186*ylbase
+k/flbase
+k%flbase
+k/slbase
+k%flbase
+r=k%flbase
+int r=k%flbase
+long r=k%flbase
+r%slbase
+r/slbase
+int sl = r/slbase
+int sl = (int) r/slbase
+r/slbase
+int sl = r/slbase
+int sl = (int) r/slbase
+r/slbase
+long sl = r/slbase
+System.out.printf("%c",(int)sl);
