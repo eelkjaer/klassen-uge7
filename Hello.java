@@ -6,6 +6,5 @@ public class Hello {
       // udskriv variabel
       System.out.println("Indtast alder:");
       Scanner myScan = new Scanner(System.in);
-      int alder = myScan.nextInt();
     }
 }
