@@ -14,6 +14,7 @@ Pause 13:15, 14:15 og 15:00
 
 
 ## Fredag d 14/2
+Pause 9:15, 10:15 og 11:00
 
 ### 1) Opsamling fra igår
 - Ciscos linux-kursus [link](https://www.netacad.com/courses/os-it/ndg-linux-essentials)
