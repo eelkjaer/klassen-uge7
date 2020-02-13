@@ -10,7 +10,7 @@ public class secConv {
       int secs = myScan.nextInt();
       int h,min,sec;
       //TODO: udregn timer,minutter og sekunder vha division og modulo
-      System.out.printf("%d sekunder er %d timer, %d minutter og %d sekunder%n",secs,h,min,sec);
+      //System.out.printf("%d sekunder er %d timer, %d minutter og %d sekunder%n",secs,h,min,sec);
       
     }
 }
