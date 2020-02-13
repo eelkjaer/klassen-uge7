@@ -15,12 +15,19 @@ Pause 13:15, 14:15 og 15:00
 
 ## Fredag d 14/2
 
-### 4) Fra println til printf
+### 1) Opsamling fra igår
+- Ciscos linux-kursus
+- Java-klasser: Scanner og Random
+- Java-documentation: API
+- Modulo operatoren
+- Opsamlingsopgave: BMI med brugerinput
+
+### 2) Fra println til printf
 - Format på klassen og i grupper 
 
-### 5) Literals - String & Char
-- basic elements (keywords (datatypes),operators)
+### 3) Typecast og order of precedence
+- et nyt værktøj: Git
 - på klassen og gruppe-challenge 
 
-### 6) En større opgave
+### 4) En større opgave
 - ModuloMaskingThree
