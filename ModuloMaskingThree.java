@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ModuloMaskingTwo {
+public class ModuloMaskingThree {
     public static void main(String[] args) {
       // hent vægt med én decimal
       // hent alder
