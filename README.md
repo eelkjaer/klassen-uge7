@@ -28,9 +28,14 @@ Pause 13:15, 14:15 og 15:00
 - Format på klassen (opg Format.java) og gruppe-challenge
 
 ### 3) Typecast og order of precedence
-- på klassen og gruppe-challenge 
+- på klassen (opg BasicElements) og gruppe-challenge 
 
 ### 4) En større opgave
 - ModuloMasking
 - ModuloMaskingThree
-- Long, ASCII og printf
+- ModuloMaskingFour
+  - Long, ASCII, printf
+  - Spotifys model
+
+### 5) Opsamling øvelser
+- Næste uge
