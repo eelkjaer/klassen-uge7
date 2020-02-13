@@ -24,10 +24,10 @@ Pause 13:15, 14:15 og 15:00
 - Opsamlingsopgave: BMI med brugerinput
 
 ### 2) Fra println til printf
-- Format på klassen og gruppe-challenge
+- et nyt værktøj: Git
+- Format på klassen (opg Format.java) og gruppe-challenge
 
 ### 3) Typecast og order of precedence
-- et nyt værktøj: Git
 - på klassen og gruppe-challenge 
 
 ### 4) En større opgave

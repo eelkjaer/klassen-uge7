@@ -3,8 +3,6 @@ public class Format {
       double frac = 1/3.0;
       String name = "Otto Rehagel";//15 tegn
       int myAge = 42;
-      double myWeight = 89.3;
-      double myBankBalance = 120001231.89;
       char myLetter = 'a';
       long lbase = (long) 1.0E17;
       // brug System.out.printf til at printe flg:
@@ -14,6 +12,9 @@ public class Format {
       // 00042
       // | a|   a|
       // | a|   a|  Otto Rehagel|
+      int J = 74;
+      System.out.printf("%d%n",J);
+      System.out.printf("%c",J);
 
     }
 }
