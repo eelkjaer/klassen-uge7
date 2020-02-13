@@ -16,7 +16,7 @@ Pause 13:15, 14:15 og 15:00
 ## Fredag d 14/2
 
 ### 1) Opsamling fra igår
-- Ciscos linux-kursus
+- Ciscos linux-kursus [link] (https://www.netacad.com/courses/os-it/ndg-linux-essentials)
 - Værktøjskassen 
 - Java-klasser: Scanner og Random
 - Java-documentation: API
