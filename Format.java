@@ -13,8 +13,15 @@ public class Format {
       // | a|   a|
       // | a|   a|  Otto Rehagel|
       int J = 74;
-      System.out.printf("%d%n",J);
-      System.out.printf("%c",J);
+
+
+      System.out.printf("%.2f"
+        + "%n|%s|"
+        + "%n|%,d|"
+        + "%n%05d"
+        + "%n| %s|  %s|"
+        + "%n| %s|  %s| %s|",
+        frac, name, lbase, myAge, myLetter, myLetter, myLetter, myLetter, name);
 
     }
 }
