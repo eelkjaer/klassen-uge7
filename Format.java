@@ -12,7 +12,6 @@ public class Format {
       // 00042
       // | a|   a|
       // | a|   a|  Otto Rehagel|
-      int J = 74;
 
 
       System.out.printf("%.2f"
