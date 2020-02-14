@@ -18,8 +18,8 @@ public class Format {
         + "%n|%s|"
         + "%n|%,d|"
         + "%n%05d"
-        + "%n| %s|  %s|"
-        + "%n| %s|  %s| %s|",
+        + "%n| %c|  %c|"
+        + "%n| %c|  %c| %s|",
         frac, name, lbase, myAge, myLetter, myLetter, myLetter, myLetter, name);
 
     }
